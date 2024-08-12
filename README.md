@@ -74,6 +74,9 @@ This is a Python-based desktop application for managing user data and financial 
 ## Contributing
 Contributions to improve the application are welcome. Please follow standard coding practices and provide documentation for any new features or changes.
 
+## Collaborator
+https://github.com/oldnewnight
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
