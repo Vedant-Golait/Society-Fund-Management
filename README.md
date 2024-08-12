@@ -1,5 +1,22 @@
 # User Data Management Application
 
+## Disclamer ##
+The formation of this code was completely for fun intended purposes. Any resemblance to actual dish, code, person living or dead, is purely coincidental. The author takes no responsibility for any Paneer-Makhni cravings, debugging nightmares, or sudden urges to cook that may arise from reading or using this code. Proceed with a sense of humor and a hearty appetite! 🍛😁
+
+
+# Welcome to Panner-Makhni
+If you don’t know why I said Paneer-Makhni, just look at the code. 🍛
+
+Now that you’ve had a look at the code, I sincerely apologize to my fellow developers for possibly giving them Paneer-Makhni nightmares. 😁 Imagine debugging this code while craving a delicious Indian dish—talk about a spicy challenge!
+
+With that said, I wish you all the best in decoding the Paneer-Makhni. May your debugging skills be as sharp as a chef’s knife and your patience as endless as a buffet line. 🍽️
+
+And remember, once you’ve decoded this culinary conundrum, don’t forget to forward me your version of the decoded code. Who knows, maybe we’ll end up with a recipe for success—or at least a good laugh! 😂
+
+Bon appétit and happy coding! 🍴💻
+
+## Best Wishes 😁🤞
+
 ## Description
 This is a Python-based desktop application for managing user data and financial transactions. It provides a graphical user interface (GUI) for performing various operations such as adding new users, viewing user details, managing transactions, and handling capital funds.
 
@@ -59,6 +76,7 @@ Contributions to improve the application are welcome. Please follow standard cod
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
 
 # Support
 Email id - vedantgolait04@gmail.com
